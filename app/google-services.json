@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395816643799",
+    "firebase_url": "https://studenthub-f0267-default-rtdb.firebaseio.com",
+    "project_id": "studenthub-f0267",
+    "storage_bucket": "studenthub-f0267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395816643799:android:4d57a85bbb91e4c2efd492",
+        "android_client_info": {
+          "package_name": "com.example.tuitionnotesofthestudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395816643799-9em1f1lnl3j46djebbnfjqm492nhjjmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuitionnotesofthestudent",
+            "certificate_hash": "634bfc2963748d51c5717b0977e8184211eb21f7"
+          }
+        },
+        {
+          "client_id": "395816643799-705lqsc0sdqa0f1l08t7g629k6ths8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0wRRQS5pIvNSYTlZo6ZGd3sn77227WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395816643799-705lqsc0sdqa0f1l08t7g629k6ths8bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
